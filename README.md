@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/react-progress-line-bar.svg)](https://www.npmjs.com/package/react-progress-line-bar) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Demo
+
+[Show Demo](https://eryunustr.github.io/react-progress-line-bar)
+
 ## Install
 
 ```bash
