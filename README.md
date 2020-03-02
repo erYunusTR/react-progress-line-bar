@@ -17,16 +17,18 @@ npm install --save react-progress-line-bar
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React from 'react'
+import ReactProgressLineBar from 'react-progress-line-bar'
 
-import { useMyHook } from 'react-progress-line-bar'
-
-const Example = () => {
-  const example = useMyHook()
+const App = () => {
   return (
-    <div>{example}</div>
+    <div>
+      <ReactProgressLineBar value={60}/>
+    </div>
   )
 }
+
+export default App
 ```
 
 ## License
