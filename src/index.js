@@ -11,7 +11,7 @@ const BorderLinearProgress = makeStyles(theme => ({
   },
   bar: {
     borderRadius: 0,
-    backgroundColor: '#1aff05',
+    backgroundColor: '#ff00ef'
   }
 }))
 
